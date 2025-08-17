@@ -73,9 +73,10 @@ Algunos ejemplos de tecnologías con las que he trabajado:
 
 Hola👋, soy Daniel, Desarrollador Full Stack<br>
 
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sebasti%C3%A1nriquelme/)
+<!--  0riginal0riginal
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sebasti%C3%A1nriquelme/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-green?style=for-the-badge&logo=portfolio)](https://sebastianriquelme.cl/)
--->  0riginal
+-->  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]
 [![Portafolio](https://img.shields.io/badge/Portafolio-green?style=for-the-badge&logo=portfolio)]

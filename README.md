@@ -66,7 +66,7 @@ Algunos ejemplos de tecnologías con las que he trabajado:
 <h1 align="center">BIENVENIDO A MI PERFIL DE GITHUB👇 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=464FE5&size=30&center=true&vCenter=true&width=700&height=80&lines=Hola+👋,+soy+Sebastián+Riquelme;+Desarrollador+Full+Stack">
+<img src="https://readme-typing-svg.herokuapp.com?color=464FE5&size=30&center=true&vCenter=true&width=700&height=80&lines=Hola+👋,+soy+Daniel;+Desarrollador+Full+Stack">
 </p>
 
 <a href="https://github.com/[TU_USUARIO]"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
